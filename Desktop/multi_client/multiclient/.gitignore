@@ -1,0 +1,14 @@
+.vercel
+# Ignore node_modules directory
+# /sever/node_modules/
+
+# # Ignore other files or directories
+# /sever/.gitignore
+# /sever/node_modules/@mongodb-js/
+# /sever/node_modules/bcrypt/test-docker.sh
+# # ... and so on
+# node_modules/.cache/default-development/4.pack
+# node_modules/.cache/default-development/16.pack
+# node_modules/.cache/default-development/10.pack
+# node_modules/.cache/
+/node_modules
