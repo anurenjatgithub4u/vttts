@@ -64,7 +64,8 @@ const ProductList = () => {
 
   useEffect(() => {
     // Fetch products data when the component mounts
-    axios.get('https://multicartservertest.vercel.app/products')
+    axios.get('https://multikartadminserver-git-fix-cors-issue-neurosphere.vercel.app/products')
+    
       .then((response) => {
         setProducts(response.data);
         setLoading(false);
