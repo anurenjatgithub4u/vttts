@@ -1,4 +1,0 @@
-large-file.bin filter=lfs diff=lfs merge=lfs -text
-node_modules/.cache/default-development/10.pack filter=lfs diff=lfs merge=lfs -text
-[[:space:]]node_modules/.cache/default-development/16.pack filter=lfs diff=lfs merge=lfs -text
-node_modules/.cache/default-development/4.pack filter=lfs diff=lfs merge=lfs -text
